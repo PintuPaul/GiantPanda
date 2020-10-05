@@ -1,7 +1,7 @@
 body {
     font-family: Arial;  
     line-height: 25px;
-    background-color: yellowgreen;
+    background-color: lightyellow;
 }
 
 img {
@@ -10,7 +10,9 @@ img {
 
 .column{
     width: 600px;
-    margin: 40px auto;
+    margin: 0px auto;
+    background-color: white;
+    padding: 10px 40px 40px 40px;
 }
 
 h1 {
