@@ -11,5 +11,9 @@ img {
     width: 600px;
     margin: 40px auto;
     border: dotted 10px gray;  
-    padding: 50px;     
+    padding: 50px;    
+}
+
+p {
+    border: solid 5px coral;
 }
