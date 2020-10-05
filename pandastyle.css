@@ -10,6 +10,7 @@ img {
 
 .column{
     width: 600px;
+<<<<<<< HEAD
     margin: 0px auto;
     background-color: white;
     padding: 10px 40px 40px 40px;
@@ -22,4 +23,13 @@ h1 {
 
 a{
     color: darkblue;
+=======
+    margin: 40px auto;
+    border: dotted 10px gray;  
+    padding: 50px;    
+}
+
+p {
+    border: solid 5px coral;
+>>>>>>> b162578... Added solid corder to paragraph
 }
