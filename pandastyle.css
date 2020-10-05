@@ -16,4 +16,6 @@ img {
 
 p {
     border: solid 5px coral;
+    padding: 20px;
+    border-radius: 10px;
 }
